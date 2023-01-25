@@ -10,7 +10,7 @@ igor32648/igor32648 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor32648&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor32648&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --->
 
 - These are some of the technologies and tools that I am interested in:

@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor32648&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --->
+<a href="https://www.animatedimages.org/cat-pokemon-1446.htm"><img src="https://www.animatedimages.org/data/media/1446/animated-pokemon-image-0001.gif" border="0" alt="animated-pokemon-image-0001" /></a>
 
 - These are some of the technologies and tools that I am interested in:
 

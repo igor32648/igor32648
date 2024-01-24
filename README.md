@@ -1,3 +1,5 @@
+<img align="center" alt="Coding" width="1000" src="https://lifeisagame1000.files.wordpress.com/2017/10/500d05bcbc3c80383458ee245122acb8.gif">
+
 <div align="center">
   曾经沧海难为水
 </div>
@@ -59,6 +61,5 @@
 </div>
 我是一名追求系统分析和开发学位的学生，渴望成为一名开发人员。我对面向对象编程概念有深刻的理解，并对Java语言和Spring生态系统充满激情。熟练掌握React和JavaScript，我在前端开发方面有扎实的基础，利用React构建交互式和用户友好的界面。
 
-<img align="center" alt="Coding" width="1000" src="https://lifeisagame1000.files.wordpress.com/2017/10/500d05bcbc3c80383458ee245122acb8.gif">
 
 

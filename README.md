@@ -16,7 +16,7 @@
 
 - 🧑‍💻 How to reach me 📧 **igorcarlosdev@gmail.com**
 
-- 💻 Know about me 👨🏻‍🎓 **I'm a graduation student pursuing an Associate Degree in Systems Analysis and Development, driven to evolve into a Developer](I'm a graduation student pursuing an Associate Degree in Systems Analysis and Development, driven to evolve into a Developer)**
+- 💻 Know about me 👨🏻‍🎓 **I'm a graduation student pursuing an Associate Degree in Systems Analysis and Development, driven to evolve into a Developer**
 
 - 🌍 Where to find me ✈️ **I am currently living in the city of Dalian, China, studying Mandarin at Dalian University of Communication 大连交通大学**
 

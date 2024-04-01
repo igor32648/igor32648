@@ -20,12 +20,6 @@
 
 - 🌍 Where to find me ✈️ **I am currently living in the city of Dalian, China, studying Mandarin at Dalian University of Communication 大连交通大学**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/igor-carlos-453101264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igor-carlos-453101264" height="30" width="40" /></a>
-<a href="https://instagram.com/igor32648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igor32648" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@ofthemnone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ofthemnone" height="30" width="40" /></a>
-</p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=igor32648&show_icons=true&locale=en&layout=compact&theme=radical" alt="igor32648" /></p>
 
@@ -56,9 +50,7 @@
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor32648&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 --->
-<div align="center">
-  <a href="https://www.animatedimages.org/cat-pokemon-1446.htm"><img src="https://www.animatedimages.org/data/media/1446/animated-pokemon-image-0001.gif" border="0" alt="animated-pokemon-image-0001" /></a>
-</div>
+
 我是一名追求系统分析和开发学位的学生，渴望成为一名开发人员。我对面向对象编程概念有深刻的理解，并对Java语言和Spring生态系统充满激情。熟练掌握React和JavaScript，我在前端开发方面有扎实的基础，利用React构建交互式和用户友好的界面。
 
 
